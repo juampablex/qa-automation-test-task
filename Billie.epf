@@ -1,0 +1,121 @@
+#Thu Jun 28 14:53:32 BOT 2018
+\!/=
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=C\:\\Users\\user\\eclipse-workspace
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=false
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=false
+/instance/org.eclipse.cdt.core.prj-chat/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<sourceLookupDirector>\r\n<sourceContainers duplicates\="false">\r\n<container memento\="AbsolutePath" typeId\="org.eclipse.cdt.debug.core.containerType.absolutePath"/>\r\n<container memento\="programRelativePath" typeId\="org.eclipse.cdt.debug.core.containerType.programRelativePath"/>\r\n<container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#13;&\#10;&lt;project referencedProjects\=&quot;true&quot;/&gt;&\#13;&\#10;" typeId\="org.eclipse.cdt.debug.core.containerType.project"/>\r\n</sourceContainers>\r\n</sourceLookupDirector>\r\n
+/instance/org.eclipse.cdt.dsf.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.managedbuilder.core/properties/chat.cdt.managedbuild.target.gnu.cross.exe.1122868516/cdt.managedbuild.config.gnu.cross.exe.debug.1983106261=cdt.managedbuild.tool.gnu.cross.assembler.2132579083\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.cpp.linker.1603294461\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.cross.exe.debug.1637379038\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.archiver.180171882\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.linker.2106226623\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.cpp.compiler.1756443935\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.compiler.217698378\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/chat.cdt.managedbuild.target.gnu.cross.exe.1122868516/cdt.managedbuild.config.gnu.cross.exe.release.116575672=cdt.managedbuild.tool.gnu.cross.cpp.compiler.1467428618\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.archiver.2072103653\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.compiler.481290213\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.assembler.626142071\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.linker.935245408\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.cross.exe.release.600927835\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.cpp.linker.1553332838\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/chat.cdt.managedbuild.target.gnu.cross.exe.1873381621/cdt.managedbuild.config.gnu.cross.exe.debug.782834477=cdt.managedbuild.tool.gnu.cross.cpp.linker.1262123647\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.assembler.1691337352\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.cpp.compiler.1881863181\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.linker.1860825643\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.compiler.1954392911\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.cross.exe.debug.777808662\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.archiver.1239935286\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/chat.cdt.managedbuild.target.gnu.cross.exe.1873381621/cdt.managedbuild.config.gnu.cross.exe.release.22691092=cdt.managedbuild.tool.gnu.cross.cpp.compiler.1951104458\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.archiver.553619571\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.assembler.719515318\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.linker.217983459\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.c.compiler.347113875\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.cross.exe.release.1989149434\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cross.cpp.linker.497952045\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.mylyn.ui/org.eclipse.mylyn.cdt.ui.run.count.3_3_0=1
+/instance/org.eclipse.cdt.ui/content_assist_disabled_computers=org.eclipse.cdt.ui.textProposalCategory\u0000org.eclipse.cdt.ui.parserProposalCategory\u0000
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.applicationLaunchType=org.eclipse.cdt.dsf.gdb.launch.localCLaunch,debug,;org.eclipse.cdt.cdi.launch.localCLaunch,run,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.attachLaunchType=org.eclipse.cdt.dsf.gdb.launch.attachCLaunch,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.dsf.gdb.launch.coreCLaunch,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.remoteApplicationLaunchType=org.eclipse.rse.remotecdt.dsf.debug,debug,;
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryView.orientation=0
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.save_dirty_editors_before_launch=always
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.BreakpointView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.BreakpointView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="org.eclipse.debug.ui.check"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.VariableView">\r\n<INTEGER IMemento.internal.id\="initialChildCountLimitForCollections" INTEGER\="100"/>\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
+/instance/org.eclipse.debug.ui/preferredTargets=default\:default|org.eclipse.cdt.debug.ui.toggleCBreakpointTarget,org.eclipse.cdt.debug.ui.toggleCDynamicPrintfTarget\:org.eclipse.cdt.debug.ui.toggleCBreakpointTarget|
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendMode=KEEP
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendModeOn=0
+/instance/org.eclipse.epp.logging.aeri.ide/sendMode=NOTIFY
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.content_assist_favorite_static_members_migrated=true
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1525792484404" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1525792484404" name\="jre1.8.0_172" path\="C\:\\Program Files\\Java\\jre1.8.0_172"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=19
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=13
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.code_templates_migrated=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
+/instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.jdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:New_configuration (1),org.eclipse.launchbar.core.descriptorType.default\:New_configuration (2),org.eclipse.launchbar.core.descriptorType.default\:New_configuration (3),org.eclipse.launchbar.core.descriptorType.default\:New_configuration (4)
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Chat/activeLaunchMode=debug
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration\ (1)/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration\ (3)/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.m2e.core/eclipse.m2.autoUpdateProjects=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
+/instance/org.eclipse.m2e.core/eclipse.m2.updateIndexes=true
+/instance/org.eclipse.m2e.core/eclipse.m2.updateProjects=true
+/instance/org.eclipse.m2e.discovery/org.eclipse.m2e.discovery.pref.projects=
+/instance/org.eclipse.mylyn.context.core/mylyn.attention.migrated=true
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_10_0=1
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_1_0=1
+/instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
+/instance/org.eclipse.mylyn.tasks.ui/migrated.task.repositories.secure.store=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.welcome.message=true
+/instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
+/instance/org.eclipse.recommenders.completion.rcp/completion_tips_seen=org.eclipse.recommenders.completion.rcp.tips.types
+/instance/org.eclipse.rse.core/org.eclipse.rse.systemtype.local.systemType.defaultUserId=user
+/instance/org.eclipse.rse.core/useridperkey=user-pc.Local\=user;
+/instance/org.eclipse.rse.ui/org.eclipse.rse.preferences.order.connections=user-pc.Local
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.ui.ide/EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/platformState=1525791511646
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+/instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.cdt.debug.dsfgdbActivity=true
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=3
+/instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
+@org.eclipse.core.net=1.3.100.v20170516-0820
+@org.eclipse.core.resources=3.12.0.v20170417-1558
+@org.eclipse.debug.core=3.11.0.v20170605-1534
+@org.eclipse.debug.ui=3.12.50.v20170920-1329
+@org.eclipse.epp.logging.aeri.ide=2.0.7.v20170906-1327
+@org.eclipse.jdt.core=3.13.102.v20180330-0919
+@org.eclipse.jdt.junit=3.10.75.v20180322-1731
+@org.eclipse.jdt.launching=3.9.100.v20180323-1351
+@org.eclipse.jdt.ui=3.13.100.v20180330-0726
+@org.eclipse.m2e.core=1.8.3.20180227-2137
+@org.eclipse.m2e.discovery=1.8.3.20180227-2137
+@org.eclipse.mylyn.context.core=3.23.0.v20170411-2108
+@org.eclipse.mylyn.java.ui=3.23.0.v20170411-2108
+@org.eclipse.mylyn.monitor.ui=3.23.0.v20170411-1844
+@org.eclipse.mylyn.tasks.ui=3.23.1.v20170623-0008
+@org.eclipse.oomph.workingsets=1.8.0.v20170318-0419
+@org.eclipse.recommenders.completion.rcp=2.5.2.v20180401-1226
+@org.eclipse.team.ui=3.8.1.v20170515-1133
+@org.eclipse.ui=3.109.0.v20170411-1742
+@org.eclipse.ui.editors=3.11.0.v20170202-1823
+@org.eclipse.ui.ide=3.13.1.v20170822-1526
+@org.eclipse.ui.workbench=3.110.1.v20170704-1208
+@org.eclipse.wst.sse.ui=1.3.600.v201707042340
+file_export_version=3.0
